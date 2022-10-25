@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Mijanur Molla</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themijanur-9292&label=Profile%20views&color=0e75b6&style=flat" alt="themijanur-9292" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Hospital Management System**
 
-- 🌱 I’m currently learning **ASP.Net,C#**
+- 🌱 I’m currently learning **ASP.Net,C#, MS SQL Server**
 
 - 📫 How to reach me **mijanurmolla6297@gmail.com**
 
