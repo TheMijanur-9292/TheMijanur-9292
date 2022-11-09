@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Md Mijanur Molla</h1>
-<h3 align="center"> Software developer from India</h3>
+<h1 align="center">Hi 👋, I'm MD MIJANUR MOLLA</h1>
+<h3 align="center"> Student at Aliah University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themijanur-9292&label=Profile%20views&color=0e75b6&style=flat" alt="themijanur-9292" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themijanur-9292" alt="themijanur-9292" /></a> </p>
 
-- 🔭 I’m currently working on **Hospital Management System**
+- 🔭 I’m currently working on **Hospital Management System PROJECT **
 
 - 🌱 I’m currently learning **ASP.Net,C#, MS SQL Server**
 
