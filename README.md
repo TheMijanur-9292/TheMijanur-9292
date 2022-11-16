@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD MIJANUR MOLLA</h1>
-<h3 align="center"> Student at Aliah University</h3>
+<h3 align="center"> -------Student at Aliah University-------</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themijanur-9292&label=Profile%20views&color=0e75b6&style=flat" alt="themijanur-9292" /> </p>
 
