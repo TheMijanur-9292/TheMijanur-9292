@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD MIJANUR MOLLA</h1>
 <h3 align="center"> -------Student at Aliah University-------</h3>
- ![Drake](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&height=30&lines=sic+parvis+magna)
-  <p align="center" height='140px' > <img src="https://komarev.com/ghpvc/?username=thesaravanakumar&label=visitors&color=31c442&style=plastic" alt="thesaravanakumar" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themijanur-9292&label=Profile%20views&color=0e75b6&style=flat" alt="themijanur-9292" /> </p>
 
