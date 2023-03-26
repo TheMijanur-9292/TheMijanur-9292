@@ -1,23 +1,8 @@
 <h1 align="center">Hi 👋, I'm MD MIJANUR MOLLA</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-
-<!--
-**MuhammadFaizanHaidar/MuhammadFaizanHaidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/C4E16AQHJT1TwixPT2A/profile-displaybackgroundimage-shrink_350_1400/0/1635808113805?e=1685577600&v=beta&t=oPlvHBcF3hIOOMpp1JniGwk1oRB_7PfZM9xgtt_EgKY" height="200"/>
+  <img src="https://media.licdn.com/dms/image/C4E16AQHJT1TwixPT2A/profile-displaybackgroundimage-shrink_350_1400/0/1635808113805?e=1685577600&v=beta&t=oPlvHBcF3hIOOMpp1JniGwk1oRB_7PfZM9xgtt_EgKY" height="150"/>
 </p>
 <br>
 
@@ -72,6 +57,16 @@ Here are some ideas to get you started:
 ✔ I’m looking to collaborate with any **Open - WordPress Plugins Projects**<br>
 ✔ Ask me anything you want, If I am there I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it stores in my brain* 😎<br><br><br><br>
+
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
+  
+</div>
 
 ## 🛠️ My Skills
 
