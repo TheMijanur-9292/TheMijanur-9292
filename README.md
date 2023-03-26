@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="" height="200"/>
+  <img src="https://media.licdn.com/dms/image/C4E16AQHJT1TwixPT2A/profile-displaybackgroundimage-shrink_350_1400/0/1635808113805?e=1685577600&v=beta&t=oPlvHBcF3hIOOMpp1JniGwk1oRB_7PfZM9xgtt_EgKY" height="200"/>
 </p>
 <br>
 
