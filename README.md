@@ -1,21 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD MIJANUR MOLLA</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=themijanur-9292&label=Profile%20views&color=0e75b6&style=flat" alt="themijanur-9292" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themijanur-9292" alt="themijanur-9292" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/themijanur_9292" target="blank"><img src="https://img.shields.io/twitter/follow/themijanur_9292?logo=twitter&style=for-the-badge" alt="themijanur_9292" /></a> </p>
-
-- 🔭 I’m currently working on [Hospital Management System](www.theample.in)
-
-- 🌱 I’m currently learning **ASP.NET,C#,MS SQL Server**
-
-- 👯 I’m looking to collaborate on **MERN Stack Project**
-
-- 👨‍💻 All of my projects are available at [themijanur.tech](themijanur.tech)
-
-- 📫 How to reach me **mijanurmolla6297@gmail.com**
 
 <!--
 **MuhammadFaizanHaidar/MuhammadFaizanHaidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,13 +22,13 @@ Here are some ideas to get you started:
 <br>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=muhammadfaizanhaidar&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=TheMijanur-9292&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-25-blue" />
-  <img src="https://img.shields.io/badge/Focus-WordPress-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Pakistan-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Urdu-brightgreen" />
+<img src="https://img.shields.io/badge/Age-21-blue" />
+  <img src="https://img.shields.io/badge/Focus-VisualStudio-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-India-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Muhammad Faizan </h1>
