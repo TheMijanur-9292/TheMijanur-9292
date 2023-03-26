@@ -42,7 +42,7 @@
 <p align="center">
   <em>
     Hello, I am Md Mijanur Molla a <b>2023</b> undergraduate from <a href="www.aliah.ac.in"> <b>Aliah University</b>, Newtown, Kolkata </a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    <b>a passionate self-learner <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a Engineer<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>development</b> and always looking to find new solutions for <b> plugins/themes </b> to learn and develop. 
   </em> 
   <br>
@@ -55,8 +55,8 @@
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mijanur-molla-11407a201/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https:)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mijanurmolla6297@gmail.com)
   
 </div>
@@ -91,8 +91,8 @@
      <img alt="Java" src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?logo=Java&logoColor=black">
    </a>
   &emsp;
-  <a href="https://www.php.net/">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-%23777BB4.svg?logo=html&logoColor=white"/>
+  <a href="https://www.C#.net/">
+    <img alt="C#" src="https://img.shields.io/badge/C#-%23777BB4.svg?logo=C#&logoColor=white"/>
   </a>
 </p>
 
@@ -171,14 +171,14 @@
   <hr>
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfaizanhaidar&theme=algolia" alt="muhammadfaizanhaidar"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheMijanur-9292&theme=algolia" alt="TheMijanur-9292"  /></p>
 
 <hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadfaizanhaidar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadfaizanhaidar&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheMijanur-9292&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="TheMijanur" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=TheMijanur-9292&show_icons=true&locale=en&theme=chartreuse-dark" alt="TheMijanur-9292" width="410" /></p>
 <br><br><br><br><br>
 
 
