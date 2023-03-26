@@ -9,12 +9,14 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=TheMijanur-9292&color=brightgreen" alt="watching_count" />
  </p>
+  [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-21-blue" />
   <img src="https://img.shields.io/badge/Focus-VisualStudio-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-India-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
+
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, <!-- I am Muhammad Faizan </h1>
 <h3 align="center">WordPress Plugins | Themes Engineer </h3>
