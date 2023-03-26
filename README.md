@@ -17,9 +17,8 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
 
-<!--<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,
- <hr> -->
+<hr>
+
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=TheMijanur-9292&theme=juicyfresh&no-bg=true" /> 
@@ -42,7 +41,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Md Mijanur Molla a <b>2023</b> undergraduate from <a href="https://qau.edu.pk/"> <b>Aliah University</b>, Newtown, Kolkata </a>. <br>
+    Hello, I am Md Mijanur Molla a <b>2023</b> undergraduate from <a href="www.aliah.ac.in"> <b>Aliah University</b>, Newtown, Kolkata </a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>development</b> and always looking to find new solutions for <b> plugins/themes </b> to learn and develop. 
   </em> 
