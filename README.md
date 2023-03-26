@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/C4E16AQHJT1TwixPT2A/profile-displaybackgroundimage-shrink_350_1400/0/1635808113805?e=1685577600&v=beta&t=oPlvHBcF3hIOOMpp1JniGwk1oRB_7PfZM9xgtt_EgKY" height="150"/>
+  <img src="https://media.licdn.com/dms/image/C4E16AQHJT1TwixPT2A/profile-displaybackgroundimage-shrink_350_1400/0/1635808113805?e=1685577600&v=beta&t=oPlvHBcF3hIOOMpp1JniGwk1oRB_7PfZM9xgtt_EgKY" height="200"/>
 </p>
 <br>
 
@@ -42,8 +42,8 @@
 
 <p align="center">
   <em>
-    Hello, I am Muhammad Faizan Haidar a <b>2018</b> undergraduate from <a href="https://qau.edu.pk/"> <b>Quaid-i-Azam University</b>, Pakistan Islamabad (" Quaidian Once Quaidian Forever ")</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>WordPress Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    Hello, I am Md Mijanur Molla a <b>2023</b> undergraduate from <a href="https://qau.edu.pk/"> <b>Aliah University</b>, Newtown, Kolkata </a>. <br>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>development</b> and always looking to find new solutions for <b> plugins/themes </b> to learn and develop. 
   </em> 
   <br>
@@ -71,10 +71,10 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mijanur-molla-11407a201/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mijanurmolla6297@gmail.com)
   
 </div>
 
@@ -178,7 +178,4 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadfaizanhaidar&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
-<hr>
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadfaizanhaidar&theme=juicyfresh&no-bg=true" />
