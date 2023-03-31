@@ -28,7 +28,7 @@
 <p align="center">
   <em>
     Hello, I am Md Mijanur Molla a <b>2023</b> undergraduate from  <b>Aliah University</b>, Newtown, Kolkata 
-    <b>a passionate self-learner <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a Engineer<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,who is <b>obsessed</b>
+    <b>a passionate self-learner  and a Engineer,who is <b>obsessed</b>
     with <b>development</b> and always looking to find new solutions for <b> plugins/themes </b> to learn and develop. 
   </em> 
   <br>
