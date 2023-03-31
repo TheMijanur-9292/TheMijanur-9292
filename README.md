@@ -4,11 +4,12 @@
 <p align="center">
   <img src="https://media.licdn.com/dms/image/C4E16AQHJT1TwixPT2A/profile-displaybackgroundimage-shrink_350_1400/0/1635808113805?e=1685577600&v=beta&t=oPlvHBcF3hIOOMpp1JniGwk1oRB_7PfZM9xgtt_EgKY" height="200"/>
 </p>
-<br>
+
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=TheMijanur-9292&color=brightgreen" alt="watching_count" />
  </p>
+ <hr>
  
  <p align="center">
 <img src="https://img.shields.io/badge/Age-21-blue" />
