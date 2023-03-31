@@ -13,7 +13,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=TheMijanur-9292&color=brightgreen" alt="watching_count" />
  
-  
+  <br><br><br>
 <img src="https://img.shields.io/badge/Age-21-blue" />
   <img src="https://img.shields.io/badge/Focus-VisualStudio-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-India-success" />
