@@ -20,8 +20,8 @@
 <hr>
 
 
-<p align="right"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=TheMijanur-9292&theme=juicyfresh&no-bg=true" /> 
+<p align="middle"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="25" />&nbsp;Git profile Trophies</p><br>
+<p align="middle"><img src="https://github-profile-trophy.vercel.app/?username=TheMijanur-9292&theme=juicyfresh&no-bg=true" /> </p>
   
  
 
