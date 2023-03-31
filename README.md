@@ -27,8 +27,8 @@
 
 <p align="center">
   <em>
-    Hello, I am Md Mijanur Molla a <b>2023</b> undergraduate from <a href="www.aliah.ac.in"> <b>Aliah University</b>, Newtown, Kolkata </a>. <br>
-    <b>a passionate self-learner <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a Engineer<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    Hello, I am Md Mijanur Molla a <b>2023</b> undergraduate from  <b>Aliah University</b>, Newtown, Kolkata 
+    <b>a passionate self-learner <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a Engineer<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,who is <b>obsessed</b>
     with <b>development</b> and always looking to find new solutions for <b> plugins/themes </b> to learn and develop. 
   </em> 
   <br>
@@ -41,10 +41,10 @@
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mijanur-molla-11407a201/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https:)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://](https://www.instagram.com/the__mijanur/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https:](https://mobile.twitter.com/MdMijanur6297)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mijanurmolla6297@gmail.com)
- [![image](https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white)](mailto:mijanurmolla6297@gmail.com)
+ [![image](https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@themijanur9292)
   
 </div>
 
@@ -79,7 +79,7 @@
    </a>
   &emsp;
   <a href="https://www.C#.net/">
-    <img alt="C#" src="https://img.shields.io/badge/C#-%23777BB4.svg?logo=C#&logoColor=white"/>
+    <img alt="C#" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=PHP&logoColor=white"/>
   </a>
 </p>
 
