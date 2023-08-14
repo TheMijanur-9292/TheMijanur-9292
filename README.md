@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/C4E16AQHJT1TwixPT2A/profile-displaybackgroundimage-shrink_350_1400/0/1635808113805?e=1685577600&v=beta&t=oPlvHBcF3hIOOMpp1JniGwk1oRB_7PfZM9xgtt_EgKY" height="200"/>
+  <img src="[https://media.licdn.com/dms/image/C4E16AQHJT1TwixPT2A/profile-displaybackgroundimage-shrink_350_1400/0/1635808113805?e=1685577600&v=beta&t=oPlvHBcF3hIOOMpp1JniGwk1oRB_7PfZM9xgtt_EgKY](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)" height="200"/>
 </p>
 
  <hr>
