@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD MIJANUR MOLLA</h1>
-<h3 align="center">I am a</h3>
+<h2>align="center">I am a</h2>
 <p align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&center=true&width=435&lines=Software+Developer;Youtuber;Photographer;Blogger;Web+Designer" alt="Typing SVG" /></a>
   </p>
@@ -23,7 +23,7 @@
 </p>
 
 <hr>
-<p align="middle"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="25" />&nbsp;Git profile Trophies</p>
+<p align="middle"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="20" />&nbsp;Git profile Trophies</p>
 <p align="middle"><img src="https://github-profile-trophy.vercel.app/?username=TheMijanur-9292&theme=juicyfresh&no-bg=true" /> </p>
   
  <p align="">
