@@ -23,10 +23,10 @@
 </p>
 
 <hr>
-<p align="middle"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="20" />&nbsp;Git profile Trophies</p>
-<p align="middle"><img src="https://github-profile-trophy.vercel.app/?username=TheMijanur-9292&theme=juicyfresh&no-bg=true" /> </p>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="20" />&nbsp;Git profile Trophies</p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=TheMijanur-9292&theme=juicyfresh&no-bg=true" /> </p>
   
- <p align="">
+ <p align="center">
   <em>
     Hello, I am Md Mijanur Molla , i have completed my B.Tech<b>2023</b>from  <b>Aliah University</b>, Newtown, Kolkata 
     <b>a passionate self-learner  and a Engineer,who is <b>obsessed</b>
