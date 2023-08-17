@@ -21,16 +21,12 @@
 </p>
 
 <hr>
-
-
 <p align="middle"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="25" />&nbsp;Git profile Trophies</p>
 <p align="middle"><img src="https://github-profile-trophy.vercel.app/?username=TheMijanur-9292&theme=juicyfresh&no-bg=true" /> </p>
   
- 
-
-<p align="center">
+ <p align="center">
   <em>
-    Hello, I am Md Mijanur Molla a <b>2023</b> undergraduate from  <b>Aliah University</b>, Newtown, Kolkata 
+    Hello, I am Md Mijanur Molla , i have completed my B.Tech<b>2023</b>from  <b>Aliah University</b>, Newtown, Kolkata 
     <b>a passionate self-learner  and a Engineer,who is <b>obsessed</b>
     with <b>development</b> and always looking to find new solutions for <b> plugins/themes </b> to learn and develop. 
   </em> 
@@ -80,8 +76,12 @@
      <img alt="Java" src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?logo=Java&logoColor=black">
    </a>
   &emsp;
+  <a href="https://www.PHP.net/">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=PHP&logoColor=white"/>
+  </a>
+   &emsp;
   <a href="https://www.C#.net/">
-    <img alt="C#" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=PHP&logoColor=white"/>
+    <img alt="C#" src="https://img.shields.io/badge/C#-%23777BB4.svg?logo=C#&logoColor=white"/>
   </a>
 </p>
 
