@@ -24,7 +24,7 @@
 
 <hr>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="20" />&nbsp;Git profile Trophies</p>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=TheMijanur-9292&theme=juicyfresh&no-bg=true"/> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?TheMijanur-9292=ryo-ma&theme=darkhub"/> </p>
   
  <p align="center">
   <em>
