@@ -23,8 +23,12 @@
 </p>
 
 <hr>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="20" />&nbsp;Git profile Trophies</p>
-<p align="center"><img src="[![trophy](https://github-profile-trophy.vercel.app/?TheMijanur-9292=ryo-ma)]"/> </p>
+<div align="center">
+<h3><b>  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50"/>&nbsp; Git profile Trophies</b></h3>
+</div>
+<div align="center">
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheMijanur-9292" alt="rock12231" /></a> </p>
+</div>
   
  <p align="center">
   <em>
