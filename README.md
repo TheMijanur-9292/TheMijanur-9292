@@ -24,7 +24,7 @@
 
 <hr>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="20" />&nbsp;Git profile Trophies</p>
-<p align="center"><img src="[![trophy](https://github-profile-trophy.vercel.app/?TheMijanur-9292=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)"/> </p>
+<p align="center"><img src="[![trophy](https://github-profile-trophy.vercel.app/?TheMijanur-9292=ryo-ma)]"/> </p>
   
  <p align="center">
   <em>
