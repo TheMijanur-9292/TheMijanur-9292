@@ -4,7 +4,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=7&color=44F71E&center=true&width=435&lines=+Software+Developer;+Youtuber;Photographer;Blogger;Web+Designer" alt="Typing SVG" /></a>
   </p>
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C4E16AQHJT1TwixPT2A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1635808116899?e=1741824000&v=beta&t=lI42oQVfZtUqKVKBCU1cfFurUWEOE76uXq8Z1Um999w" height="200"/>
+  <img src="[https://media.licdn.com/dms/image/v2/C4E16AQHJT1TwixPT2A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1635808116899?e=1741824000&v=beta&t=lI42oQVfZtUqKVKBCU1cfFurUWEOE76uXq8Z1Um999w](https://www.linkedin.com/in/md-mijanur-molla/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BVvCTkz%2BDQRGdEdg6Aox0KQ%3D%3D)" height="200"/>
 </p>
 
  <hr>
