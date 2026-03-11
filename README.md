@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=MD%20MIJANUR%20MOLLA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Creator%20%7C%20Engineer&descAlignY=58&descAlign=50&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=MD%20MIJANUR%20MOLLA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineerr%20%7C%20Content%20Creator%20%7C%20Photographer&descAlignY=58&descAlign=50&descSize=18" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -34,9 +34,9 @@
 const mijanur = {
   name       : "MD Mijanur Molla",
   education  : "B.Tech 2023 — Aliah University, Kolkata",
-  role       : "Full Stack Developer & WordPress Engineer",
+  role       : "Software Engineer @2Coms Group",
   currentWork: "Building a Gutenberg Block Plugin",
-  learning   : ["React ⚛️", "Advanced PHP", "Block Editor APIs"],
+  learning   : ["MERN", "Backend Development", "AgenAI"],
   openSource : "Attendance Management for LifterLMS @ wordpress.org",
   goal       : "Collaborate on Open-Source WordPress Projects",
   funFact    : "I learn something new, then sleep so my brain stores it 😎",
@@ -61,12 +61,12 @@ const mijanur = {
 ### 🧠 Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+
 </p>
 
 ### 🎨 Frontend
