@@ -23,6 +23,7 @@ Building scalable products, backend systems and AI-powered applications.
 <br/>
 
 ---
+[![CoderLegion Stats](https://coderlegion.com/profile-stats-badge/Md+Mijanur+Molla.svg)](https://coderlegion.com/user/Md+Mijanur+Molla)
 
 ## `$ whoami`
 
