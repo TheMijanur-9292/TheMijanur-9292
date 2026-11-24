@@ -50,5 +50,3 @@ const mijanur = {
   philosophy:
     "Build simple systems that solve real problems."
 };
-
-[![CoderLegion Stats](https://coderlegion.com/profile-stats-badge/Md+Mijanur+Molla.svg)](https://coderlegion.com/user/Md+Mijanur+Molla)
